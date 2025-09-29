@@ -38,3 +38,6 @@ This project showcases my skills in Excel for data analysis and visualization. U
 ---
 
 This project highlights my ability to turn raw data into meaningful business insights using Excel. It demonstrates my technical skills, attention to detail, and ability to communicate results effectively through clear visuals and concise reporting. 🚀
+
+**Here's the link deonstrating my work**
+[Retail Sales Dataset Analysis](https://b2wcompletetraining057-my.sharepoint.com/:x:/r/personal/pendambayeka_bootcamp_justit_co_uk/_layouts/15/doc2.aspx?sourcedoc=%7BF18D50D7-FC3B-4773-9980-E04A943AA6A8%7D&file=retail_sales_dataset_Master%20-%20Copy%20Penda.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&wdOrigin=MAIL.SHELL%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN%2CAPPHOME-WEB.FILEBROWSER.RECENT&wdPreviousSession=476834ee-ec92-47c6-b898-69b231bd8de0&wdPreviousSessionSrc=AppHomeWeb&ct=1759156507823)
